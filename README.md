@@ -1,1 +1,1 @@
-# kurikura-website
+# krkr-website
